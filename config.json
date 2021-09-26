@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Andrew Weymouth"
+  },
+  "text": {
+    "more": "This visualization is the current state of representation for African American, Disabled American, Immigrant Communities, Japanese Americans, Native Americans and Women\u0027s Rights currently digitized within the Richards Collection. The nodes are separated by communities, and further grouped by date and address information if included in the entry.  \n\nThis visualization can serve as a tool for pinpointing trends in the coverage of certain communities, as well as identify potential gaps in digitized material. \n\nIt is my hope that the visualization will be significantly more populated by the end of my work on this project and that future network visualizations can help illuminate new connections within the repository and uncover a more diverse and representative cultural history. ",
+    "intro": "Richards Collection Representation Visualization, September 2021. ",
+    "title": "Richards Collection Digitized Items Visualization 9/24"
+  },
+  "legend": {
+    "edgeLabel": "Modularity",
+    "colorLabel": "Turquoise\u003d African Americans, Pink\u003d Japanese Americans, Orange\u003d Women\u0027s Rights, Yellow\u003d Immigrant Communities, Blue\u003d Disabled Americans, Green\u003d Native Americans ",
+    "nodeLabel": "Community"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "subject",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
