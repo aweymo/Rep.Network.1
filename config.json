@@ -8,9 +8,9 @@
     "text": "Andrew Weymouth"
   },
   "text": {
-    "more": "This visualization is the current state of representation for African American, Disabled American, Immigrant Communities, Japanese Americans, Native Americans and Women\u0027s Rights currently digitized within the Richards Collection. The nodes are separated by communities, and further grouped by date and address information if included in the entry.  \n\nThis visualization can serve as a tool for pinpointing trends in the coverage of certain communities, as well as identify potential gaps in digitized material. \n\nIt is my hope that the visualization will be significantly more populated by the end of my work on this project and that future network visualizations can help illuminate new connections within the repository and uncover a more diverse and representative cultural history. ",
-    "intro": "Richards Collection Representation Visualization, September 2021. ",
-    "title": "Richards Collection Digitized Items Visualization 9/24"
+    "more":  "This visualization can serve as a tool for pinpointing trends in the coverage of certain communities, as well as identify potential gaps in digitized material. \n\nIt is my hope that the visualization will be significantly more populated by the end of my work on this project and that future network visualizations can help illuminate new connections within the repository and uncover a more diverse and representative cultural history. ",
+    "intro": "This visualization is the current state of representation for African American, Disabled American, Immigrant Communities, Japanese Americans, Native Americans and Women's Rights currently digitized within the Richards Collection. The nodes are separated by communities, and further grouped by date and address information if included in the entry.  ",
+    "title": "Richards Collection Representation Visualization, September 2021"
   },
   "legend": {
     "edgeLabel": "Modularity",
